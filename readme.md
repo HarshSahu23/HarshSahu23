@@ -47,7 +47,7 @@ My name is Harsh Sahu. I am a full stack Mobile App Developer. I am in my final 
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/:badgeContent?logo=leetcode&logoColor=%23FFA116" alt="Leetcode logo" title="Leetcode" height="25" />](https://leetcode.com/u/Cpt_Myst1c/)
+[<img src="https://img.shields.io/badge/Leetcode-black?style=flat&logo=leetcode&logoColor=%23FFA116" alt="Leetcode logo" title="Leetcode" height="25" />](https://leetcode.com/u/Cpt_Myst1c/)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/harsh-sahu-154147222/)
 
