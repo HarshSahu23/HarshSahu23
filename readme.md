@@ -1,7 +1,6 @@
 # Hi ! 👋
 
-My name is Harsh Sahu. I am a full stack Mobile App Developer. I am in my final year of studying Computer Science.
-
+My name is Harsh Sahu. I am a software engineer. I look to build helpful things. 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠  Technologies and tools
